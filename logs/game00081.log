@@ -1,0 +1,28 @@
+# Server version 0.08 running on XT-PeeCee:8123
+# Game ID: 81
+# Board class: hus.HusBoard
+# Timeout: 2000
+# First Move Timeout: 30000
+# Date: Mon Apr 04 16:47:24 EDT 2016
+# Player 1: Player-0, 'RandomHusPlayer', running on 127.0.0.1
+# Player 2: Player-1, '260640319', running on 127.0.0.1
+START Player-0 RandomHusPlayer
+START Player-1 260640319
+PIT 0 21
+PIT 1 22
+PIT 0 4
+PIT 1 4
+PIT 0 17
+PIT 1 14
+PIT 0 10
+PIT 1 17
+PIT 0 16
+PIT 1 28
+PIT 0 3
+PIT 1 13
+PIT 0 22
+PIT 1 14
+PIT 0 11
+PIT 1 19
+GAMEOVER WINNER 1
+# Game ended: Mon Apr 04 16:47:24 EDT 2016

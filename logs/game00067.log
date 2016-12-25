@@ -1,0 +1,15 @@
+# Server version 0.08 running on XT-PeeCee:8123
+# Game ID: 67
+# Board class: hus.HusBoard
+# Timeout: 2000
+# First Move Timeout: 30000
+# Date: Mon Apr 04 01:38:09 EDT 2016
+# Player 1: Player-0, '260640319', running on XT-PeeCee
+# Player 2: Player-1, '260640319', running on XT-PeeCee
+START Player-0 260640319
+START Player-1 260640319
+PIT 0 0
+PIT 1 1
+PIT 0 12
+GAMEOVER ILLEGAL MOVE: Player 1 plays pit 24 WINNER 0
+# Game ended: Mon Apr 04 01:38:10 EDT 2016

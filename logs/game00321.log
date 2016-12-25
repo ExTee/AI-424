@@ -1,0 +1,22 @@
+# Server version 0.08 running on XT-PeeCee:8123
+# Game ID: 321
+# Board class: hus.HusBoard
+# Timeout: 2000
+# First Move Timeout: 30000
+# Date: Thu Apr 07 21:25:10 EDT 2016
+# Player 1: Player-0, 'MK7NoRandom - TimeLimited iterative', running on 127.0.0.1
+# Player 2: Player-1, 'MK7NoRandom', running on 127.0.0.1
+START Player-0 MK7NoRandom - TimeLimited iterative
+START Player-1 MK7NoRandom
+PIT 0 9
+PIT 1 22
+PIT 0 5
+PIT 1 4
+PIT 0 18
+PIT 1 17
+PIT 0 2
+PIT 1 19
+PIT 0 6
+PIT 1 7
+GAMEOVER TIMEOUT WINNER 1
+# Game ended: Thu Apr 07 21:25:30 EDT 2016
